@@ -1,0 +1,32 @@
+{
+  "params":
+
+  {
+
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/my_blog",
+    "prod_uri": "mysql://root:@localhost/my_blog",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com/git",
+    "blog_name": "TIME AND GRAVITY",
+    "tag_line": "HERE FOR TIME MECHANICS",
+    "gmail-user": "hussainsha147@gmail.com",
+    "gmail-password": "ghphysics",
+    "about_text": "My own expertise is in: Quantum computing, cosmology, quantum mechanics, general and special relativity, quantum gravity, unification and the theory of everything, particle physics, Electromagnetics, Thermodynamics, and electronics. From the past 9 years I have been working to construct theory of Gravity according to the rules of Quantum Mechanics. Unification of Gravity with other forces , quantum computing, and new approach to Dark matter and Dark energy are my interests. The articles uploaded here are the ways I approached to construct Gravity according to the Quantum rules. currently my final results are under review. I have possessed with TIME!",
+    "no_of_posts": "1",
+    "login_image": "login.svg",
+    "admin_user": "reshma",
+    "admin_password": "reshma143",
+    "upload_location": "D:\\my web uploads"
+
+  }
+
+
+
+
+
+
+
+
+}
